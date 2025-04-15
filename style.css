@@ -1,0 +1,49 @@
+.contact
+{
+  color:lavender;
+}
+.info{
+  text-align: center;
+  width: 100vh;
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  opacity: 0;
+  animation: fadeIn 2s ease-in forwards;
+}@keyframes fadeIn {
+  to {
+    opacity: 5;
+  }
+}
+body{
+  background-image: url('89787.jpg');
+}
+.skill
+{
+  width: 185vh;
+  text-align: right;
+  color: beige;
+}
+.about
+{
+  color: azure;
+  text-align: center;
+  width: 90vh;
+  transform: translateX(-100%);
+  animation: slideIn 2s ease-out forwards;
+}@keyframes slideIn {
+  to {
+    transform: translateX(0);
+  }
+}
+a {
+color: whitesmoke;
+}
+a:visited {
+  color: rgb(36, 130, 129); 
+}
+a:hover {
+  color: red; 
+}
+a:active {
+  color: orange;
+}
