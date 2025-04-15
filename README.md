@@ -21,3 +21,7 @@ The website typically consists of several key sections that are logically organi
 The Contact section contains a simple contact . It also includes email,linkedIn . The website is built with HTML for content structure, CSS for layout and styling, and JavaScript for interactivity. JavaScript is used for implementing features such as smooth scrolling, toggling dark and light modes, form validation, responsive menus, and interactive animations.
 
 The website is designed to be responsive, ensuring that it works seamlessly on devices of all screen sizes including smartphones, tablets, and desktops. CSS media queries and flexible layouts play a vital role in achieving this responsiveness. Additional enhancements such as animation on scroll, hover effects, and dynamic project filters contribute to an improved user experience. This static portfolio website not only serves as a personal branding tool but also demonstrates the developer’s ability to build clean, functional, and visually appealing websites. It is lightweight, easy to host, and can be deployed on platforms like GitHub Pages, Netlify, or Vercel. Overall, this project helps individuals establish a professional online presence and is an excellent addition to any developer or designer’s portfolio.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5e43ed2d-b112-4ffb-856d-470492832c40)
